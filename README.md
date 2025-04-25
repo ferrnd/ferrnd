@@ -38,7 +38,7 @@
 
 ## <span style="color:#00bfff;">📂 My Repositories</span>
 <details>
-  <summary style="color:#00bfff;">📁 <strong>Array/strong> – Working with arrays</summary>
+  <summary style="color:#00bfff;">📁 <strong>Array</strong> – Working with arrays</summary>
   <p>🔹 A way to store multiple values in a single variable, with each value accessible by its index (starting at 0).</p>
   <p>🔹 It's useful for managing lists like numbers, names, or items.</p>
   <p>🔹 You can easily add, remove, or loop through the elements.</p>
