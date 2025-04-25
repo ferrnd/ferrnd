@@ -61,7 +61,7 @@
 ---
 
 ## <span style="color:#00bfff;">📫 How to reach me</span>
-- 🎮 Discord: [ferrnd](https://discord.com/users/1365367910192910398)
+- 🎮 Discord: [taaago](https://discord.com/users/1365367910192910398)
 - 💼 LinkedIn: [Fernando Santos](https://www.linkedin.com/in/fernando-santos-a548a4349/)
 - 📸 Instagram: [@fferrnd](https://www.instagram.com/fferrnd/)
 
