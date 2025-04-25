@@ -17,7 +17,7 @@
 
 ---
 
-## <span style="color:#00bfff;">👋 Hello! I am Fernando "ferrnd"</span>
+## <span style="color:#00bfff;">👋 Hello! I am Fernando Santos</span>
 - 💻 <span style="color:#1e90ff;">Technology and development enthusiast</span>
 - 📍 <span style="color:#1e90ff;">Location: São Paulo - Campinas</span>
 - 🚀 <span style="color:#1e90ff;">Always learning something new</span>
