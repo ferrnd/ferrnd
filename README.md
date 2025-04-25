@@ -38,21 +38,21 @@
 
 ## <span style="color:#00bfff;">📂 My Repositories</span>
 <details>
-  <summary style="color:#00bfff;">📁 <strong>Array-git</strong> – Working with arrays</summary>
+  <summary style="color:#00bfff;">📁 <strong>Array/strong> – Working with arrays</summary>
   <p>🔹 A way to store multiple values in a single variable, with each value accessible by its index (starting at 0).</p>
   <p>🔹 It's useful for managing lists like numbers, names, or items.</p>
   <p>🔹 You can easily add, remove, or loop through the elements.</p>
 </details>
 
 <details>
-  <summary style="color:#00bfff;">📁 <strong>While-git</strong> – Conditional loops</summary>
+  <summary style="color:#00bfff;">📁 <strong>While</strong> – Conditional loops</summary>
   <p>🔹 A loop that runs as long as a given condition is true.</p>
   <p>🔹 It checks the condition before each repetition, useful for uncertain situations.</p>
   <p>🔹 Be careful to update variables to avoid infinite loops.</p>
 </details>
 
 <details>
-  <summary style="color:#00bfff;">📁 <strong>For-git</strong> – Counting with control</summary>
+  <summary style="color:#00bfff;">📁 <strong>For</strong> – Counting with control</summary>
   <p>🔹 A loop used when you know how many times something should repeat.</p>
   <p>🔹 It includes start point, condition to continue, and a step update.</p>
   <p>🔹 Common for counting or going through arrays.</p>
