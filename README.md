@@ -21,7 +21,7 @@
 - 📍 São Paulo - Campinas  
 - 🚀 Always learning, building, and exploring  
 
-✨ _"Turning ideas into code and code into impact."_  
+
 
 ---
 
