@@ -74,12 +74,6 @@
   <a href="https://www.instagram.com/fferrnd/">Instagram</a>
 </p>
 
-  <summary style="color:#00bfff;">📁 <strong>For</strong> – Counting with control</summary>
-  <p>🔹 A loop used when you know how many times something should repeat.</p>
-  <p>🔹 It includes start point, condition to continue, and a step update.</p>
-  <p>🔹 Common for counting or going through arrays.</p>
-</details>
-
 ---
 
 ## <span style="color:#00bfff;">📫 How to reach me</span>
