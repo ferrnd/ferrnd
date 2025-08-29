@@ -40,13 +40,6 @@
 
 ---
 
-## 🔥 Contributions
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ferrnd&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📂 Featured Repositories
 <details>
   <summary>📁 <strong>Array</strong> – Working with arrays</summary>
@@ -65,9 +58,6 @@
 ---
 
 ## 🌐 Let's Connect!
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-  <br/>
   <a href="https://discord.com/users/1365367910192910398">Discord</a> • 
   <a href="https://www.linkedin.com/in/fernando-santos-a548a4349/">LinkedIn</a> • 
   <a href="https://www.instagram.com/fferrnd/">Instagram</a>
