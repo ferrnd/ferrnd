@@ -2,8 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;¡Bienvenido+a+mi+perfil!;ようこそ!;欢迎来到我的主页!;Добро+пожаловать!" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRvMHBvZThyMTlwdTFzc3Q0Mnh0c2h2cmtnZzhvODFxa243Y2F0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11dmEI4SVjTKPm/giphy.gif" alt="GIF Exemplo"/>
+  <img src="https://media1.tenor.com/m/Jx35bgmIhSwAAAAC/no-ghibli.gif" alt="GIF" />
 </p>
+
 <p align="center">
   <a href="https://discord.com/users/1365367910192910398" title="Connect with me on Discord">
     <img src="https://img.shields.io/badge/Discord-ferrnd-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
