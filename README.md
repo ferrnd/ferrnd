@@ -40,9 +40,8 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferrnd&theme=tokyonight" height="165">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferrnd&theme=tokyonight" height="165">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ferrnd&theme=tokyonight" height="165">
 </p>
-
 
 ---
 
