@@ -45,20 +45,10 @@
 
 ---
 
-## 📂 Featured Repositories
-<details>
-  <summary>📁 <strong>Array</strong> – Working with arrays</summary>
-  <p>🔹 Store multiple values in a single variable.</p>
-  <p>🔹 Useful for numbers, names, or items.</p>
-  <p>🔹 Easy to add, remove, or loop through elements.</p>
-</details>
+## 📘 Projects Showcase
 
-<details>
-  <summary>📁 <strong>While</strong> – Conditional loops</summary>
-  <p>🔹 Runs as long as the condition is <code>true</code>.</p>
-  <p>🔹 Great for uncertain situations.</p>
-  <p>🔹 ⚠️ Watch out for infinite loops!</p>
-</details>
+- 🏢 **[Desenvolvimento de Site para Empresa Multinacional](https://github.com/ferrnd/Desenvolvimento-de-Site-para-Empresa-Multinacional)** – site corporativo em HTML & CSS criado como atividade escolar para aplicar boas práticas de estrutura e estilo.  
+
 
 ---
 
