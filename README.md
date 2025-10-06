@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;¡Bienvenido+a+mi+perfil!;ようこそ!;欢迎来到我的主页!;Добро+пожаловать!" alt="Typing SVG" />
 </p>
-
-![GIF Exemplo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZjc251NGE1a2ZuMGw0ZTJpbGN4ejltY2gyNWkwemdsbWFxa3o1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Hlvl6apZk2UyXqo/giphy.gif)
-
+<p align="center">
+![GIF Exemplo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRvMHBvZThyMTlwdTFzc3Q0Mnh0c2h2cmtnZzhvODFxa243Y2F0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11dmEI4SVjTKPm/giphy.gif)
+</p>
 
 <p align="center">
   <a href="https://discord.com/users/1365367910192910398" title="Connect with me on Discord">
