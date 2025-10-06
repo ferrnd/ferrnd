@@ -63,9 +63,3 @@
 
 ---
 
-## 🌐 Let's Connect!
-  <a href="https://discord.com/users/1365367910192910398">Discord</a> • 
-  <a href="https://www.linkedin.com/in/fernando-santos-a548a4349/">LinkedIn</a> • 
-  <a href="https://www.instagram.com/fferrnd/">Instagram</a>
-</p>
-
