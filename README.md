@@ -2,12 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;¡Bienvenido+a+mi+perfil!;ようこそ!;欢迎来到我的主页!;Добро+пожаловать!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61802610/80830970-54264f80-8bc0-11ea-8603-51aa42d7c466.gif" width="300" alt="Jevil Deltarune">
-</p>
-<br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=%F0%9F%8E%93+Software+Development+at+SENAI-SP;%F0%9F%8E%AE+Games+Enjoyer;%F0%9F%97%BD+Based+in+Campinas%2C+Brazil" alt="Typing animation">
-</p>
+![GIF Exemplo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZjc251NGE1a2ZuMGw0ZTJpbGN4ejltY2gyNWkwemdsbWFxa3o1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Hlvl6apZk2UyXqo/giphy.gif)
+
 
 <p align="center">
   <a href="https://discord.com/users/1365367910192910398" title="Connect with me on Discord">
