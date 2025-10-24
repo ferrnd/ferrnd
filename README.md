@@ -45,14 +45,4 @@
 
 ---
 
-## 📘 Projects Showcase
-
-- 🏢 **[Desenvolvimento de Site para Empresa Multinacional](https://github.com/ferrnd/Desenvolvimento-de-Site-para-Empresa-Multinacional)**  
-  Site corporativo desenvolvido em **HTML & CSS**, criado como atividade escolar para aplicar boas práticas de estrutura, semântica e design responsivo.
-
-- 🩺 **[Prova Sistema de Pacientes](https://github.com/ferrnd/Prova-Sistema-de-Pacientes)**  
-  API REST criada em **Node.js**, com **CRUD completo** (Create, Read, Update e Delete) para gerenciamento de pacientes.  
-  Inclui rotas para cadastro, consulta, atualização e exclusão de dados, seguindo boas práticas de organização e uso de Express.
-
----
 
