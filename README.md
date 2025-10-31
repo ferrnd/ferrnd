@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;¡Bienvenido+a+mi+perfil!;ようこそ!;欢迎来到我的主页!;Добро+пожаловать!" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <img src="https://media1.tenor.com/m/Jx35bgmIhSwAAAAC/no-ghibli.gif" alt="GIF" />
 </p>
@@ -19,30 +20,63 @@
 
 ---
 
-## 👋 Hello! I am <span style="color:#00bfff;">Fernando Santos</span>
-- 💻 Technology & Development Enthusiast  
-- 📍 São Paulo - Campinas  
-- 🚀 Always learning, building, and exploring  
+## 👋 Hello! I’m <span style="color:#00bfff;">Fernando Santos</span>
 
+I’m a passionate **Full Stack Development student** focused on building web applications and exploring backend technologies.  
+Currently learning and experimenting with **Node.js, Express, Prisma**, and **PostgreSQL**.
 
-
----
-
-## 🧰 Technologies and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,nodejs,postgres,linux,windows,postman,vscode,figma&theme=light" alt="Tech Stack" />
-</p>
-
+- 💻 Always learning, building, and sharing knowledge  
+- 🧩 Interested in API development, UI design, and automation  
+- 📍 Based in **Campinas, São Paulo (Brazil)**  
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 About Me
+
+- 🎓 Student at **Escola SESI Valinhos**  
+- 🧠 Curious by nature — I love learning how things work  
+- 🧩 Inspired by Studio Ghibli’s philosophy of imagination and craftsmanship  
+- ☕ Probably coding with coffee and lo-fi beats in the background  
+
+> “The best way to learn is by creating.”  
+
+---
+
+## 🧰 Technologies & Tools
+
+**Languages & Frameworks**  
+![HTML](https://skillicons.dev/icons?i=html,css,js,python,java,nodejs)
+
+**Databases & Tools**  
+![PostgreSQL](https://skillicons.dev/icons?i=postgres,prisma,postman)
+
+**Version Control & Environment**  
+![Git](https://skillicons.dev/icons?i=git,github,linux,windows,vscode,figma)
+
+---
+
+## 📈 GitHub Insights
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferrnd&theme=tokyonight" height="165">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ferrnd&theme=tokyonight" height="165">
 </p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferrnd&theme=tokyonight" height="165">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ferrnd&theme=tokyonight" height="165">
+</p>
+
+> “Code. Learn. Repeat.” – my personal motto 🧠
+
 ---
 
+<p align="center">
+  💬 Feel free to reach out or collaborate!  
+  <br>
+  <em>“Every great project starts with curiosity.”</em>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ferrnd&color=00bfff&style=for-the-badge" alt="Profile Views" />
+</p>
