@@ -47,7 +47,7 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferrnd&show_icons=true&theme=tokyonight&card_width=400&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=ferrnd&show_icons=true&theme=tokyonight&card_width=370&hide_border=true&layout=compact" height="165">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ferrnd&theme=tokyonight" height="165">
 </p>
 
@@ -55,7 +55,6 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferrnd&theme=tokyonight" height="165">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ferrnd&theme=tokyonight" height="165">
 </p>
-
 ---
 
 <p align="center">
