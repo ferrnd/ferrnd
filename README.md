@@ -31,17 +31,6 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
 
 ---
 
-## 🌱 About Me
-
-- 🎓 Student at **Escola SESI Valinhos**  
-- 🧠 Curious by nature — I love learning how things work  
-- 🧩 Inspired by Studio Ghibli’s philosophy of imagination and craftsmanship  
-- ☕ Probably coding with coffee and lo-fi beats in the background  
-
-> “The best way to learn is by creating.”  
-
----
-
 ## 🧰 Technologies & Tools
 
 **Languages & Frameworks**  
@@ -66,8 +55,6 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferrnd&theme=tokyonight" height="165">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ferrnd&theme=tokyonight" height="165">
 </p>
-
-> “Code. Learn. Repeat.” – my personal motto 🧠
 
 ---
 
