@@ -34,13 +34,16 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
 ## 🧰 Technologies & Tools
 
 
-**Languages & Frameworks** 
+**Languages & Frameworks**
+
 ![HTML](https://skillicons.dev/icons?i=html,css,js,python,java,nodejs)
 
-**Databases & Tools**  
+**Databases & Tools** 
+
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres,prisma,postman)
 
 **Version Control & Environment**  
+
 ![Git](https://skillicons.dev/icons?i=git,github,linux,windows,vscode,figma)
 
 ---
