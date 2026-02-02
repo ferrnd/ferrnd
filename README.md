@@ -47,7 +47,6 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferrnd&theme=tokyonight&hide_border=true" height="165">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ferrnd&theme=tokyonight" height="165">
 </p>
 
