@@ -25,8 +25,8 @@
 I’m a passionate **Full Stack Development student** focused on building web applications and exploring backend technologies.  
 Currently learning and experimenting with **Node.js, Express, Prisma**, and **PostgreSQL**.
 
-- 💻 Always learning, building, and sharing knowledge.  
-- 🧩 Interested in API development, UI design, and automation.  
+- 💻 Always learning, building, and sharing knowledge
+- 🧩 Interested in API development, UI design, and automation
 - 📍 Based in **Campinas, São Paulo (Brazil)**  
 
 ---
