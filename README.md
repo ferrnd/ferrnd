@@ -56,7 +56,7 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferrnd&color=00bfff" alt="Github stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferrnd&color=00bfff" alt="Github stats" height="300" />
 </div>
 
 ---
