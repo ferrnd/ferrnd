@@ -50,9 +50,10 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
 
 ## 📈 GitHub Insights
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ferrnd&theme=tokyonight" height="165">
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thales971&style=flat-square&color=blueviolet&label=Visitantes+do+Perfil" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Thales971?style=flat-square&color=blueviolet&label=Seguidores&logo=github" alt="Followers" />
+</div>
 
 ---
 
