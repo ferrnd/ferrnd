@@ -51,8 +51,12 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thales971&style=flat-square&color=blueviolet&label=Visitantes+do+Perfil" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Thales971?style=flat-square&color=blueviolet&label=Seguidores&logo=github" alt="Followers" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferrnd&color=00bfff" alt="GitHub Streak" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferrnd&color=00bfff" alt="Top Langs" height="175" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferrnd&color=00bfff" alt="Github stats" />
 </div>
 
 ---
