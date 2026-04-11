@@ -7,9 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/1365367910192910398" title="Connect with me on Discord">
-    <img src="https://img.shields.io/badge/Discord-ferrnd-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://www.linkedin.com/in/fernando-santos-a548a4349/" title="Connect with me on LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Santos-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
