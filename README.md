@@ -37,11 +37,11 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
 
 **Mobile Development**
 
-![Mobile Development](https://skillicons.dev/icons?i=react,expo)
+![React](https://skillicons.dev/icons?i=react) <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 
 **Databases & API Tools** ![Databases](https://skillicons.dev/icons?i=postgres,prisma,postman)
 
-**Version Control, Environment & Management** ![Tools](https://skillicons.dev/icons?i=git,github,linux,windows,vscode,figma,trello)
+**Version Control, Environment & Management** ![Tools](https://skillicons.dev/icons?i=git,github,linux,windows,vscode,figma) <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
 
 ---
 
@@ -59,14 +59,6 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
 ---
 
 <p align="center">
-  💬 Feel free to reach out or collaborate!  
-  <br>
-  <em>“Every great project starts with curiosity.”</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ferrnd&color=00bfff&style=for-the-badge" alt="Profile Views" />
-</p>
   💬 Feel free to reach out or collaborate!  
   <br>
   <em>“Every great project starts with curiosity.”</em>
