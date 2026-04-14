@@ -33,15 +33,27 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
 
 **Languages & Frameworks**
 
-![Languages & Frameworks](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java" />
+</p>
 
 **Mobile Development**
 
-![React](https://skillicons.dev/icons?i=react) <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" title="React Native" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" width="48" title="Expo" />
+</p>
 
-**Databases & API Tools** ![Databases](https://skillicons.dev/icons?i=postgres,prisma,postman)
+**Databases & API Tools** <p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,postman" />
+</p>
 
-**Version Control, Environment & Management** ![Tools](https://skillicons.dev/icons?i=git,github,linux,windows,vscode,figma) <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+**Version Control, Environment & Management**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,figma" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" width="48" title="Trello" />
+</p>
 
 ---
 
