@@ -13,6 +13,9 @@
   <a href="https://www.instagram.com/fferrnd/" title="Follow me on Instagram">
     <img src="https://img.shields.io/badge/@fferrnd-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
+  <a href="mailto:evencio.tech@gmail.com" title="Send me an email">
+    <img src="https://img.shields.io/badge/Email-evencio.tech@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -24,24 +27,21 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
 
 - 💻 Always learning, building, and sharing knowledge
 - 🧩 Interested in API development, UI design, and automation
-- 📍 Based in **Campinas, São Paulo (Brazil)**  
-
----
+- 📍 Based in **Campinas, São Paulo (Brazil)** ---
 
 ## 🧰 Technologies & Tools
 
-
 **Languages & Frameworks**
 
-![HTML](https://skillicons.dev/icons?i=html,css,js,python,java,nodejs)
+![Languages & Frameworks](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java)
 
-**Databases & Tools** 
+**Mobile Development**
 
-![PostgreSQL](https://skillicons.dev/icons?i=postgres,prisma,postman)
+![Mobile Development](https://skillicons.dev/icons?i=react,expo)
 
-**Version Control & Environment**  
+**Databases & API Tools** ![Databases](https://skillicons.dev/icons?i=postgres,prisma,postman)
 
-![Git](https://skillicons.dev/icons?i=git,github,linux,windows,vscode,figma)
+**Version Control, Environment & Management** ![Tools](https://skillicons.dev/icons?i=git,github,linux,windows,vscode,figma,trello)
 
 ---
 
@@ -59,6 +59,14 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
 ---
 
 <p align="center">
+  💬 Feel free to reach out or collaborate!  
+  <br>
+  <em>“Every great project starts with curiosity.”</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ferrnd&color=00bfff&style=for-the-badge" alt="Profile Views" />
+</p>
   💬 Feel free to reach out or collaborate!  
   <br>
   <em>“Every great project starts with curiosity.”</em>
