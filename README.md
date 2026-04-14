@@ -60,7 +60,7 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferrnd&color=00bfff" alt="GitHub Streak" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferrnd&theme=yeblu" alt="GitHub Streak" height="175" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ferrnd&theme=yeblu" alt="Top Langs" height="175" />
 </div>
 
