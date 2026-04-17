@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/ZqrhbRavnTEAAAAC/naruto-naruto-uzumaki.gif" width="320" alt="Naruto GIF" />
+  <img src="https://media1.tenor.com/m/ZqrhbRavnTEAAAAC/naruto-naruto-uzumaki.gif" width="420" alt="Naruto GIF" />
 </p>
 
 <p align="center">
@@ -28,11 +28,6 @@
   <a href="mailto:evencio.tech@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-evencio.tech@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ferrnd&color=00bfff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ferrnd?color=00bfff&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" />
 </p>
 
 ---
@@ -175,6 +170,7 @@ const fernando = {
 <p align="center">
   <img src="https://media1.tenor.com/m/mCiM7CmGGI4AAAAd/naruto.gif" width="320" alt="Naruto GIF" />
 </p>
-<div align="center">
-  <sub>Made with ❤️ and lots of ☕ by <strong>Fernando Santos</strong> | Campinas, SP 🇧🇷</sub>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ferrnd&color=00bfff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
