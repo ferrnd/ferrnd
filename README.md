@@ -121,7 +121,7 @@ const fernando = {
 
 <div align="center">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrnd&layout=compact&theme=transparent&hide_border=true" height="210" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrnd&layout=compact&theme=transparent&hide_border=true" height="300" alt="Top Languages" />
  
  </div>
 
