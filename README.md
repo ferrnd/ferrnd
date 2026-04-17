@@ -91,10 +91,9 @@ const fernando = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" width="48" title="Trello" style="margin-left:6px" />
 </p>
 
-### 🤖 AI & Emerging Tech
+### AI & Emerging Tech
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" title="Python for AI" />
   <img src="https://img.shields.io/badge/Generative%20AI-Enthusiast-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-Learning-00BFFF?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
