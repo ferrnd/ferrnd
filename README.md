@@ -64,10 +64,6 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
   <img src="https://github-readme-stats.vercel.app/api?username=ferrnd&show_icons=true&theme=transparent" alt="GitHub Stats" height="175" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferrnd&theme=transparent" alt="Github stats" height="300" />
-</div>
-
 ---
 
 <p align="center">
