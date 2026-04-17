@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/Jx35bgmIhSwAAAAC/no-ghibli.gif" alt="GIF" />
+  <img src="https://media1.tenor.com/m/ZqrhbRavnTEAAAAC/naruto-naruto-uzumaki.gif" alt="Naruto GIF" />
 </p>
 
 <p align="center">
