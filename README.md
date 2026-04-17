@@ -102,13 +102,13 @@ const fernando = {
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ferrnd&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&border_radius=10" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrnd&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=ffffff&border_radius=10&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ferrnd&show_icons=true&theme=transparent&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrnd&layout=compact&theme=transparent&hide_border=true" height="180" alt="Top Languages" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferrnd&theme=transparent&hide_border=true&background=0D1117&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF&border_radius=10" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferrnd&theme=transparent&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
 
 ## 📅 Contribution Activity
