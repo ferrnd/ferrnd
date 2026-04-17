@@ -61,8 +61,6 @@ const fernando = {
 - 🤖 Exploring **Python** for AI/automation scripts
 - 🌐 Always curious, always building, always sharing
 
----
-
 ## Tech Stack
 
 ### Languages & Frameworks
@@ -112,7 +110,6 @@ const fernando = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferrnd&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF&border_radius=10" height="180" alt="GitHub Streak" />
 </div>
----
 
 ## 📅 Contribution Activity
 
