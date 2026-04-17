@@ -112,11 +112,6 @@ const fernando = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferrnd&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF&border_radius=10" height="180" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ferrnd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 📅 Contribution Activity
@@ -148,22 +143,6 @@ const fernando = {
 | 🇧🇷 Português | Native           |
 | 🇺🇸 English   | Intermediate     |
 | 🇮🇹 Italiano  | Learning 📚      |
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Every%20great%20project%20starts%20with%20curiosity.&author=Fernando%20Santos" alt="Quote" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
-  <br/>
-  <em>I love connecting with people — feel free to reach out or collaborate!</em>
-  <br/><br/>
-  <a href="mailto:evencio.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20talk!-evencio.tech@gmail.com-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 <p align="center">
