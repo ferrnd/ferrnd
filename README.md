@@ -51,7 +51,7 @@ const fernando = {
 };
 ```
 
-<img align="right" src="https://media1.tenor.com/m/yQTzA3S-UxYAAAAC/naruto-naruto-dance.gif" width="300" alt="Coding GIF" />
+<img align="right" src="https://media1.tenor.com/m/yQTzA3S-UxYAAAAC/naruto-naruto-dance.gif" width="150" alt="Coding GIF" />
 
 - 🎓 Studying **Systems Development** at **SENAI** (2025–2026)
 - 🧠 Enthusiast of **Generative AI** & agile methodologies
