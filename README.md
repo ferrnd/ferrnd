@@ -61,6 +61,7 @@ Currently learning and experimenting with **Node.js, Express, Prisma**, and **Po
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferrnd&theme=transparent" alt="GitHub Streak" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ferrnd&show_icons=true&theme=transparent" alt="GitHub Stats" height="175" />
 </div>
 
 
