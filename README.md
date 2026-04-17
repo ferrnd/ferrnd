@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/ZqrhbRavnTEAAAAC/naruto-naruto-uzumaki.gif" width="420" alt="Naruto GIF" />
+  <img src="https://media1.tenor.com/m/ZqrhbRavnTEAAAAC/naruto-naruto-uzumaki.gif" width="500" alt="Naruto GIF" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ const fernando = {
 };
 ```
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+<img align="right" src="https://media1.tenor.com/m/yQTzA3S-UxYAAAAC/naruto-naruto-dance.gif" width="300" alt="Coding GIF" />
 
 - 🎓 Studying **Systems Development** at **SENAI** (2025–2026)
 - 🧠 Enthusiast of **Generative AI** & agile methodologies
@@ -146,7 +146,7 @@ const fernando = {
 
 ---
 <p align="center">
-  <img src="https://media1.tenor.com/m/mCiM7CmGGI4AAAAd/naruto.gif" width="320" alt="Naruto GIF" />
+  <img src="https://media1.tenor.com/m/mCiM7CmGGI4AAAAd/naruto.gif" width="500" alt="Naruto GIF" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ferrnd&color=00bfff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
