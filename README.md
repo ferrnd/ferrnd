@@ -28,9 +28,6 @@
   <a href="mailto:evencio.tech@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-evencio.tech@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/ferrnd">
-    <img src="https://img.shields.io/badge/GitHub-ferrnd-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
 </p>
 
 <p align="center">
