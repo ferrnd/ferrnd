@@ -153,7 +153,7 @@ const fernando = {
 | ------------ | ---------------- |
 | 🇧🇷 Português | Native           |
 | 🇺🇸 English   | Intermediate     |
-| 🇮🇹 Italiano  | Learning 📚      |
+| 🇮🇹 Italiano  | Learning         |
 
 ---
 <p align="center">
