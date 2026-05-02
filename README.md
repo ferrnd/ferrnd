@@ -41,9 +41,9 @@ const fernando = {
   education: "Técnico em Desenvolvimento de Sistemas @ SENAI",
   location: "📍 Campinas, São Paulo — Brasil",
   languages: [
-    "🇧🇷 Português (nativo)",
-    "🇺🇸 English (intermediário)",
-    "🇮🇹 Italiano (cursando)",
+    "🇧🇷 Português (native)",
+    "🇺🇸 English (intermediate)",
+    "🇮🇹 Italiano (attending)",
   ],
   passions: ["API Design", "Mobile Dev", "Generative AI", "UI/UX"],
   currentFocus: "Building Full Stack apps with Node.js + React Native",
@@ -138,9 +138,9 @@ const fernando = {
 ```
 [ ✅ ] Master REST API development with Node.js + Express + Prisma
 [ ✅ ] Build production-ready React Native apps
+[ ✅ ] Contribute to open source projects
 [ 🔄 ] Deep-dive into TypeScript best practices
 [ 🔄 ] Advance in Generative AI & Prompt Engineering
-[ 📌 ] Contribute to open source projects
 [ 📌 ] Complete Italian language course
 [ 📌 ] Land my first professional developer role
 ```
