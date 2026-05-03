@@ -38,7 +38,7 @@
 const fernando = {
   name: "Fernando Santos",
   role: "Full Stack & Mobile Developer",
-  education: "Técnico em Desenvolvimento de Sistemas @ SENAI",
+  education: "Systems Development Technician @SENAI",
   location: "📍 Campinas, São Paulo — Brasil",
   languages: [
     "🇧🇷 Português (native)",
