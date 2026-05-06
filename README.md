@@ -66,7 +66,7 @@ const fernando = {
 ### Languages & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python&perline=9" />
 </p>
 
 ### Mobile Development
