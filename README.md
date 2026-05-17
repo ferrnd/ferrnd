@@ -43,7 +43,7 @@ const fernando = {
   languages: [
     "🇧🇷 Português (native)",
     "🇺🇸 English (intermediate)",
-    "🇮🇹 Italiano (attending)",
+    "🇮🇹 Italian (attending)",
   ],
   passions: ["API Design", "Mobile Dev", "Generative AI", "UI/UX"],
   currentFocus: "Building Full Stack apps with Node.js + React Native",
