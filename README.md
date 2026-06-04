@@ -104,7 +104,7 @@ const fernando = {
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ferrnd&show_icons=true&theme=transparent&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ferrnd&show_icons=true&theme=transparent&hide_border=true" height="180" alt="GitHub Stats" />
 
 
 
@@ -121,7 +121,7 @@ const fernando = {
 
 <div align="center">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrnd&layout=compact&theme=transparent&hide_border=true" height="300" alt="Top Languages" />
+ <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ferrnd&layout=compact&theme=transparent&hide_border=true" height="200" alt="Top Languages" />
  
  </div>
 
